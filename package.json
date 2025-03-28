@@ -1,0 +1,22 @@
+{
+  "name": "happy-bucks",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node_modules/.bin/vite dev",
+    "build": "node_modules/.bin/vite build",
+    "start": "node_modules/.bin/vite start"
+  },
+  "dependencies": {
+    "svelte": "^4.2.3",
+    "svelte/compiler": "^4.2.3",
+    "svelte/runtime": "^4.2.3",
+    "@heroicons/react": "^2.0.18",
+    "firebase": "^9.22.0",
+    "firebase-admin": "^11.11.0",
+    "@vee-validate/core": "^4.7.0",
+    "@vee-validate/rules": "^4.13.0"
+  },
+  "devDependencies": {
+    "vite": "^4.2.0"
+  }
+}
